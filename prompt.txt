@@ -1,0 +1,2 @@
+I have some csv files in a folder. 
+Write a python function that reads each csv file in the folder as a dataframe, then combine all dataframes into a single one and return it.
