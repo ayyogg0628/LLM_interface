@@ -24,3 +24,5 @@ if xcode is missing then install it:
 `pip install 'llama-cpp-python[server]'`
 
 ### 6. Run the notebook and pip install all needed packages
+User's prompt should be written in "prompt.txt", and then run the notebook\
+The model's response code will be in "response.py"
